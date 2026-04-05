@@ -3,7 +3,7 @@ Creates a bootable SD card for an Raspberry Pi 5 with an encrypted root filesyst
 
 ## Usage
 
-Usage: `./build /dev/<NAME of SD card>`
+Usage: `./build /dev/<NAME of sd card>`
 
 Locate your device `NAME` from the devices listed by the `lsblk` command in Linux.
 

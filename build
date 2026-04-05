@@ -13,7 +13,7 @@
 # You can now copy the Encryption key created by the script to the USB drive.
 
 if [ -z "$1" ]; then
-  echo "Usage: $0 /dev/<NAME of SD card>" >&2
+  echo "Usage: $0 /dev/<NAME of sd card>" >&2
   echo ""
   echo "Locate your device NAME from the devices below:"
   lsblk -d

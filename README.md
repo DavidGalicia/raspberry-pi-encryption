@@ -1,5 +1,5 @@
 # Raspberry Pi Encryption Build Script
-Creates a bootable SD card for an Raspberry Pi 5 with an encrypted root filesystem from an .img file in the current directory. The filesystem is decrypted using a connected USB key drive when the Raspberry Pi 5 boots. The script must run in Linux. Tested images: 2025-12-04-raspios-trixie-arm64.img
+Creates a bootable SD card for a Raspberry Pi 5 with an encrypted root filesystem from an .img file in the current directory. The filesystem is decrypted using a connected USB key drive when the Raspberry Pi 5 boots. The script must run in Linux. Tested images: 2025-12-04-raspios-trixie-arm64.img
 
 ## Usage
 
